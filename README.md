@@ -1,5 +1,5 @@
 # cv_pgraffigna
-[![Descarga mi CV](https://img.shields.io/badge/download-PDF-red.svg)](./docs/CV_Pablo_Graffigna.pdf)
+[![Mira mi CV!!](https://img.shields.io/badge/download-PDF-red.svg)](./docs/CV_Pablo_Graffigna.pdf)
 
 **Soporte Técnico** 
 
@@ -50,7 +50,6 @@
 * Curso Help Desk Windows beca del “Proyecto Control F” (presencial).
 
 ## Links
-* [Contactame por mail](pabloggraffigna@gmail.com)
 * [Mis proyectos](https://github.com/pgraffigna)
 * [Linkedin](https://www.linkedin.com/in/pablo-graffigna/)
 * [Lo que hago en mi tiempo libre](https://tryhackme.com/p/rugeleon)
