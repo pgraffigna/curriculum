@@ -1,7 +1,7 @@
-# cv_pgraffigna
+# Pablo Graffigna
 [![Mira mi CV!!](https://img.shields.io/badge/download-PDF-red.svg)](./docs/CV_Pablo_Graffigna.pdf)
 
-**Soporte Técnico** 
+## Fortalezas 
 
 * **10 años de experiencia en el uso de herramientas open source en ambientes laborales**
 * **8 años utilizando Linux como SO primario**
