@@ -10,7 +10,7 @@
 * **Tendencia hacia el trabajo colaborativo**
 * **Gran adaptación para el trabajo remoto por diferentes vías (rdp, vnc, ssh, vpn)**
 * **Automatización (ansible)**
-* **Microservicios (docker, kubernetes)**
+* **Microservicios (docker, podman)**
 * **Virtualización (proxmox, kvm, vmware, virtualbox)**
 * **Conocimiento de herramientas para desplegar entornos de trabajo (vagrant)** 
 
@@ -51,5 +51,5 @@
 
 ## Links
 * [Mis proyectos](https://github.com/pgraffigna)
-* [Linkedin](https://www.linkedin.com/in/pablo-graffigna/)
+* [Linkedin](https://www.linkedin.com/in/pablo-graffigna/) www.linkedin.com/in/pablo-graffigna
 * [Lo que hago en mi tiempo libre](https://tryhackme.com/p/rugeleon)
