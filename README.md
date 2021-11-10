@@ -51,5 +51,5 @@
 
 ## Links
 * [Mis proyectos](https://github.com/pgraffigna)
-* [Linkedin](https://www.linkedin.com/in/pablo-graffigna/) www.linkedin.com/in/pablo-graffigna
+* [Linkedin](https://www.linkedin.com/in/pablo-graffigna/) 
 * [Lo que hago en mi tiempo libre](https://tryhackme.com/p/rugeleon)
