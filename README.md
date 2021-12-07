@@ -11,7 +11,7 @@
 * **Gran adaptación para el trabajo remoto por diferentes vías (rdp, vnc, ssh, vpn)**
 * **Automatización (ansible)**
 * **Microservicios (docker, podman)**
-* **Virtualización (proxmox, kvm, vmware, virtualbox)**
+* **Virtualización (proxmox, vmware, virtualbox)**
 * **Conocimiento de herramientas para desplegar entornos de trabajo (vagrant)** 
 
 ## Experiencia laboral
@@ -52,4 +52,6 @@
 ## Links
 * [Mis proyectos](https://github.com/pgraffigna)
 * [Linkedin](https://www.linkedin.com/in/pablo-graffigna/) 
-* [Lo que hago en mi tiempo libre](https://tryhackme.com/p/rugeleon)
+* [TryHackMe](https://tryhackme.com/p/rugeleon)
+* [HackTheBox](https://app.hackthebox.com/profile/113047)
+
