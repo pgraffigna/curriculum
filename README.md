@@ -1,5 +1,5 @@
 # Pablo Graffigna
-[![Mira mi CV!!](https://img.shields.io/badge/download-PDF-red.svg)](./docs/CV_Pablo_Graffigna.pdf)
+[![Acá mi CV!!](https://img.shields.io/badge/download-PDF-red.svg)](./docs/CV_Pablo_Graffigna.pdf)
 
 ## Fortalezas
 
