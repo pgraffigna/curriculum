@@ -11,10 +11,12 @@
 * **Gran adaptación para el trabajo remoto (rdp, vnc, ssh, vpn)**
 * **Automatización (ansible, scripting)**
 * **Microservicios (contenedores, algo de kubernetes en homelab)**
+* **Experiencia en la gestion de servidores con Linux y deploy de aplicaciones**
 * **Virtualización (proxmox, vmware, virtualbox, qemu)**
 * **Manejo de herramientas para desplegar entornos de desarrollo (vagrant, lxd)**
 * **Gestion de redes (Switching, Routing de equipos Mikrotik, PFsense)**
 * **Conocimiento para la administracion de redes inalambricas (unifi-controller, APs, USG, USW)**
+* **Gestión de VMs en Cloud**
 
 ## Experiencia laboral
 ### **Centro de Datos en Ministerio de Cultura de la Nación**
@@ -56,8 +58,8 @@
 * Curso Help Desk Windows beca del “Proyecto Control F” (presencial).
 
 ## Links
-* [Mis proyectos](https://github.com/pgraffigna)
-* [Linkedin](https://www.linkedin.com/in/pablo-graffigna/)
-* [TryHackMe](https://tryhackme.com/p/rugeleon)
-* [HackTheBox](https://app.hackthebox.com/profile/113047)
+* [Acá podes ver mis proyectos en github](https://github.com/pgraffigna)
+* [Tengo perfil en Linkedin](https://www.linkedin.com/in/pablo-graffigna/)
+* [Un poco de hacking en TryHackMe](https://tryhackme.com/p/rugeleon)
+* [Mi progreso en HackTheBox](https://app.hackthebox.com/profile/113047)
 
