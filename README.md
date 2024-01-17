@@ -16,7 +16,8 @@
 * **Manejo de herramientas para desplegar entornos de desarrollo (vagrant, lxd)**
 * **Gestion de redes (Switching, Routing de equipos Mikrotik, PFsense)**
 * **Conocimiento para la administracion de redes inalambricas (unifi-controller, APs, USG, USW)**
-* **Gestión de VMs en Cloud**
+* **Gestión de VMs en entornos Cloud**
+* **Experiencia en monitoreo de métricas y alertado usando herramientas como prometheus, grafana, influxdb y telegraf**
 
 ## Experiencia laboral
 ### **Centro de Datos en Ministerio de Cultura de la Nación**
