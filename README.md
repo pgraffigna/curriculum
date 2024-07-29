@@ -18,6 +18,7 @@
 * **Conocimiento para la administracion de redes inalambricas (unifi-controller, APs, USG, USW)**
 * **Gestión de VMs en entornos Cloud**
 * **Experiencia en monitoreo de métricas y alertado usando herramientas como prometheus, grafana, influxdb y telegraf**
+* **Administracion de buckets s3 en entornos linux (s3cmd, s3tools, s3fuse)**
 
 ## Experiencia laboral
 ### **Centro de Datos en Ministerio de Cultura de la Nación**
