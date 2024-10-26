@@ -10,21 +10,21 @@
 * **Tendencia hacia el trabajo colaborativo**
 * **Gran adaptación para el trabajo remoto (rdp, vnc, ssh, vpn)**
 * **Automatización (ansible, scripting)**
-* **Microservicios (contenedores, algo de kubernetes en homelab)**
+* **Microservicios (contenedores)**
 * **Experiencia en la gestion de servidores con Linux y deploy de aplicaciones**
 * **Virtualización (proxmox, vmware, virtualbox, qemu)**
 * **Manejo de herramientas para desplegar entornos de desarrollo (vagrant, lxd)**
 * **Gestion de redes (Switching, Routing de equipos Mikrotik, PFsense)**
 * **Conocimiento para la administracion de redes inalambricas (unifi-controller, APs, USG, USW)**
-* **Gestión de VMs en entornos Cloud**
+* **Gestión de recursos en entornos Cloud**
 * **Experiencia en monitoreo de métricas y alertado usando herramientas como prometheus, grafana, influxdb y telegraf**
-* **Administracion de buckets s3 en entornos linux (s3cmd, s3tools, s3fuse)**
+* **Administracion de buckets s3 en entornos linux (aws-cli, s3cmd, s3tools, s3fuse)**
 
 ## Experiencia laboral
 ### **Centro de Datos en Ministerio de Cultura de la Nación**
 * **Linux Sysadmin**
 * Febrero 2021 - Actualidad
-* Trabajando como administrador desde marzo de 2021 en Datacenter/Infraestructura del [Ministerio de Cultura de la Nación](https://www.cultura.gob.ar/)
+* Trabajando como Linux System Administrator desde marzo de 2021 en Datacenter/Infraestructura del [Ministerio de Cultura de la Nación](https://www.cultura.gob.ar/)
 
 ### **Ministerio de Cultura**
 * **Project Manager**
@@ -47,7 +47,7 @@
 * Desde el año 2011 estuve realizando tareas de soporte técnico en el Depto de Sistemas en [CePIa](https://www.youtube.com/channel/UC1CdnaYtB5aSB7_xj8cZlIw/videos)
 
 ## Formación académica
-
+* AWS Knowledge: Cloud Essentials 
 * Carrera Linux System Engineer en Instituto CLA/UTN-FRD (virtual - actual)
 * Carrera Ethical Hacking Expert en Instituto CLA/UTN-FRD (virtual - actual)
 * Plan “Codo A Codo” beca del GCBA (virtual).
