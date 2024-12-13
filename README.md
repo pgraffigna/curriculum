@@ -47,17 +47,18 @@
 * Desde el año 2011 estuve realizando tareas de soporte técnico en el Depto de Sistemas en [CePIa](https://www.youtube.com/channel/UC1CdnaYtB5aSB7_xj8cZlIw/videos)
 
 ## Formación académica
-* AWS Knowledge: Cloud Essentials 
-* Carrera Linux System Engineer en Instituto CLA/UTN-FRD (virtual - actual)
-* Carrera Ethical Hacking Expert en Instituto CLA/UTN-FRD (virtual - actual)
-* Plan “Codo A Codo” beca del GCBA (virtual).
-* Plan “Jóvenes Programadores” (virtual).
-* Curso “Administración de Servidores Apache Nivel 2” del Inap (virtual).
-* Curso “Recursos Informáticos” en Inap (virtual).
-* Carrera de Analista de Sistemas en Irso (Virtual hasta 3° año - incompleto)
-* Curso Cisco CCNA Discovery Mòdulo 1 beca del “Proyecto Control F” (presencial).
-* Curso de administración de redes en Instituto Raúl Scalabrini Ortiz (presencial).
-* Curso Help Desk Windows beca del “Proyecto Control F” (presencial).
+* Tecnicatura Cloud Administration AWS en TECLAB - En curso
+* AWS Knowledge: Cloud Essentials
+* Carrera Linux System Engineer en Instituto CLA/UTN-FRD
+* Carrera Ethical Hacking Expert en Instituto CLA/UTN-FRD
+* Plan “Codo A Codo” beca del GCBA.
+* Plan “Jóvenes Programadores”.
+* Curso “Administración de Servidores Apache Nivel 2” del Inap.
+* Curso “Recursos Informáticos” en Inap.
+* Carrera de Analista de Sistemas en Irso
+* Curso Cisco CCNA Discovery Mòdulo 1 beca del “Proyecto Control F”.
+* Curso de administración de redes en Instituto Raúl Scalabrini Ortiz.
+* Curso Help Desk Windows beca del “Proyecto Control F”.
 
 ## Links
 * [Acá podes ver mis proyectos en github](https://github.com/pgraffigna)
